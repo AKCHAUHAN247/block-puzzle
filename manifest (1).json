@@ -1,0 +1,19 @@
+{
+  "name": "Block Puzzle",
+  "short_name": "BlockPuzzle",
+  "description": "Addictive block puzzle — fill rows, columns & 3×3 blocks to score!",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f0f1e",
+  "theme_color": "#0f0f1e",
+  "orientation": "portrait",
+  "categories": ["games"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
